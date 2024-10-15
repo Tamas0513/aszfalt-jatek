@@ -1,0 +1,45 @@
+.felosztas{
+    margin: 0px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+.list-group-item{
+    font-size: 15px;
+    font-style: italic;
+}
+ 
+.card-img-top{
+    height: 300px;
+    width: 285px;
+}
+.card-text{
+    text-align: center;
+}
+body{
+    background-color: turquoise;
+    font-size: 20px;
+}
+footer {
+    flex-shrink: 0;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    height: 100px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+li{
+    height: 45px;
+}
+
